@@ -32,4 +32,6 @@ Supports decisions on inventory, marketing focus, and regional strategies.
 
 Provides a user-friendly interface for non-technical users to interact with data.
 
+Image link : https://github.com/lakshya-srivastava19/ecommerce-dashboard/blob/main/dashboard.png
+
 Facilitates performance tracking and goal setting based on data insights.
